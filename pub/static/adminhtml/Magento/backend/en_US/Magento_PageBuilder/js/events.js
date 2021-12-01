@@ -1,0 +1,1 @@
+/home/sruti/Desktop/cda/synergy-business-systems-pty-limited/vendor/magento/module-page-builder/view/base/web/js/events.js

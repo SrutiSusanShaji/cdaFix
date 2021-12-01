@@ -1,0 +1,1 @@
+/home/sruti/Desktop/cda/synergy-business-systems-pty-limited/vendor/magento/module-backend/view/adminhtml/web/js/dashboard/totals.js

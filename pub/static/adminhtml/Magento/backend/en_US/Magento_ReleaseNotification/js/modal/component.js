@@ -1,0 +1,1 @@
+/home/sruti/Desktop/cda/synergy-business-systems-pty-limited/vendor/magento/module-release-notification/view/adminhtml/web/js/modal/component.js
